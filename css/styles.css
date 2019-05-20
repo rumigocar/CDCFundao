@@ -1,0 +1,91 @@
+
+/* TOPO */
+#title{
+    font-family: 'Open Sans', sans-serif;
+    color: #333333;
+}
+
+.container_logo{
+    background-color: #343a40;
+    text-align: left;
+}
+
+.img_logo_topo{
+    width: 250px;
+}
+
+/* CORPO */
+
+.container-fluid{
+    padding: 0%;
+}
+.h1_cinza{
+    font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    color: #333333;
+    text-align: center;
+    padding: 25px;
+}
+
+.p_cinza{
+    color: #333333;
+}
+
+.h1_cor{
+    font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    color: #ffffff;
+    text-align: center;
+    padding: 25px;
+}
+
+.p_cor{
+    color: #ffffff;
+}
+
+.quem_somos{
+    padding: 3% 10%;
+    background-color: #DEDEDE;
+}
+
+.modalidades{
+    padding: 3% 10%;
+    background-color: #77080f;
+}
+
+.horarios{
+    padding: 3% 10%;
+    background-color: #DEDEDE;
+}
+
+.contactos{
+    padding: 3% 10%;
+    background-color: #77080f;
+}
+
+.img_modalidades{
+    width: 250px;
+}
+
+
+
+.mapa{
+    text-align: center;
+}
+
+/* FUNDO */
+
+
+
+/* OUTROS */
+@media (max-width: 1020px){
+    .container_logo{
+        text-align: center;
+    }
+
+    .img_logo_topo{
+        width: 150px;
+    }
+}  
